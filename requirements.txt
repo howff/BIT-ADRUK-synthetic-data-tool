@@ -1,0 +1,3 @@
+# Contains library versions needed to set up virtual environment
+numpy==1.19
+pandas>=0.24
