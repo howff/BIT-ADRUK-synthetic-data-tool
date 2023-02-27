@@ -16,6 +16,6 @@ This notebook requires that the following are installed:
     - pandas
     - pyreadstat (optional: this is needed only if you have Python 3 and want to read/preserve metadata from .sav files)
 
-Further discussion may be found in the 'Troubleshooting' section of the [*User Guide*] (https://www.adruk.org/fileadmin/uploads/adruk/Documents/User-Guide-Synthetic-Data-Tool.pdf).
+Further discussion may be found in the 'Troubleshooting' section of the [*User Guide*](https://www.adruk.org/fileadmin/uploads/adruk/Documents/User-Guide-Synthetic-Data-Tool.pdf).
 
 
